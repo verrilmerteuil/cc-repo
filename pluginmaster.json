@@ -3,9 +3,9 @@
     "Name": "cc-chat",
     "InternalName": "ccchat",
     "Description": "Chat client",
-    "AssemblyVersion": "0.3.8",
-    "TestingAssemblyVersion": "0.3.8",
-    "RepoUrl": "https://git.cecile.synology.me/FFXIV/ccchat-dalamud",
+    "AssemblyVersion": "0.3.9",
+    "TestingAssemblyVersion": "0.3.9",
+    "RepoUrl": "https://github.com/verrilmerteuil/cc-repo",
     "ApplicableVersion": "any",
     "Tags": ["chat", "ccchat"],
     "CategoryTags": ["utility"],
@@ -48,3 +48,4 @@
     "AssemblyMatchPattern": "ccctimer.dll"
   }
 ]
+
