@@ -3,8 +3,8 @@
     "Name": "cc-chat",
     "InternalName": "ccchat",
     "Description": "Chat client",
-    "AssemblyVersion": "0.3.9",
-    "TestingAssemblyVersion": "0.3.9",
+    "AssemblyVersion": "0.3.9.1",
+    "TestingAssemblyVersion": "0.3.9.1",
     "RepoUrl": "https://github.com/verrilmerteuil/cc-repo",
     "ApplicableVersion": "any",
     "Tags": ["chat", "ccchat"],
@@ -22,30 +22,5 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "AssemblyMatchPattern": "ccchat.dll"
-  },
-  {
-    "Name": "cc-timer",
-    "InternalName": "ccctimer",
-    "Description": "Timer plugin for various tasks",
-    "AssemblyVersion": "0.0.1",
-    "TestingAssemblyVersion": "0.0.1",
-    "RepoUrl": "https://git.cecile.synology.me/FFXIV/cctimer",
-    "ApplicableVersion": "any",
-    "Tags": ["timer", "ccctimer"],
-    "CategoryTags": ["utility"],
-    "DalamudApiLevel": 14,
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://git.cecile.synology.me/FFXIV/cctimer/releases/download/v0.0.1/ccchat.zip",
-    "DownloadLinkTesting": "https://git.cecile.synology.me/FFXIV/cctimer/releases/download/v0.0.1/ccchat.zip",
-    "DownloadLinkUpdate": "https://git.cecile.synology.me/FFXIV/cctimer/releases/download/v0.0.1/ccchat.zip",
-    "SupportsProfiles": false,
-    "IconUrl": "",
-    "ImageUrls": [],
-    "Changelog": "",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "AssemblyMatchPattern": "ccctimer.dll"
   }
 ]
-
