@@ -3,8 +3,8 @@
     "Name": "cc-chat",
     "InternalName": "ccchat",
     "Description": "Chat client",
-    "AssemblyVersion": "0.3.9.4",
-    "TestingAssemblyVersion": "0.3.9.4",
+    "AssemblyVersion": "0.3.9.5",
+    "TestingAssemblyVersion": "0.3.9.5",
     "RepoUrl": "https://github.com/verrilmerteuil/cc-repo",
     "ApplicableVersion": "any",
     "Tags": ["chat", "ccchat"],
@@ -24,3 +24,4 @@
     "AssemblyMatchPattern": "ccchat.dll"
   }
 ]
+
