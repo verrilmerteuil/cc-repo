@@ -3,8 +3,8 @@
     "Name": "cc-chat",
     "InternalName": "ccchat",
     "Description": "CCChat: end-to-end encrypted DMs, fast contact list with presence/typing, attachments + inline previews, emoji/GIF picker, and optional web companion + tell integration.",
-    "AssemblyVersion": "0.6.8.3",
-    "TestingAssemblyVersion": "0.6.8.3",
+    "AssemblyVersion": "0.6.9.0",
+    "TestingAssemblyVersion": "0.6.9.0",
     "RepoUrl": "https://github.com/verrilmerteuil/cc-repo",
     "ApplicableVersion": "any",
     "Tags": ["chat", "ccchat"],
@@ -24,6 +24,7 @@
     "AssemblyMatchPattern": "ccchat.dll"
   }
 ]
+
 
 
 
