@@ -4,8 +4,8 @@
     "Name": "CrystalChat",
     "InternalName": "ccchat",
     "Description": "CrystalChat: end-to-end encrypted DMs, fast contact list with presence/typing, attachments + inline previews, emoji/GIF picker, and optional web companion + tell integration.",
-    "AssemblyVersion": "0.7.0.2",
-    "TestingAssemblyVersion": "0.7.0.2",
+    "AssemblyVersion": "0.7.0.3",
+    "TestingAssemblyVersion": "0.7.0.3",
     "RepoUrl": "https://github.com/verrilmerteuil/cc-repo",
     "ApplicableVersion": "any",
     "Tags": ["chat", "ccchat"],
@@ -19,12 +19,13 @@
     "SupportsProfiles": false,
     "IconUrl": "https://github.com/verrilmerteuil/cc-chat/blob/88b2531f355affd495d64dbec436df03596cb808/Data/images/logo.png",
     "ImageUrls": [],
-    "Changelog": "Tell history now consistently loads the newest 50 messages per partner\nadded attachment preview\nkeep focus after sending a message\nadded auto-login\nadded custom button colors\nadded custom contact colors\nadded message grouping\nadded timestamp in chat",
+    "Changelog": "better emoji-picker\nadded BTTV integration",
     "IsHide": false,
     "IsTestingExclusive": false,
     "AssemblyMatchPattern": "ccchat.dll"
   }
 ]
+
 
 
 
