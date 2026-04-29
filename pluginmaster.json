@@ -5,7 +5,7 @@
     "InternalName": "ccchat",
     "Description": "CrystalChat: end-to-end encrypted DMs, fast contact list with presence/typing, attachments + inline previews, emoji/GIF picker, and optional web companion + tell integration.",
     "AssemblyVersion": "0.9.1.15",
-    "TestingAssemblyVersion": "0.9.1.20",
+    "TestingAssemblyVersion": "0.9.1.21",
     "RepoUrl": "https://github.com/verrilmerteuil/cc-repo",
     "ApplicableVersion": "any",
     "Tags": ["chat", "ccchat"],
