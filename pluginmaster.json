@@ -25,6 +25,32 @@
     "IsTestingExclusive": false,
     "AssemblyMatchPattern": "ccchat.dll"
   }
+    {
+    "Author": "CCChat Team",
+    "Name": "AllTheFurniture",
+    "InternalName": "AllTheFurniture",
+    "Description": "CrystalChat: end-to-end DMs, fast contact list with presence/typing, attachments + inline previews, emoji/GIF picker, tell integration.",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/verrilmerteuil/AllTheFurniture",
+    "ApplicableVersion": "any",
+    "Tags": ["chat", "ccchat"],
+    "CategoryTags": ["utility"],
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/verrilmerteuil/allthefurniture/latest/download/AllTheFurniture.zip",
+    "DownloadLinkTesting": "https://github.com/verrilmerteuil/allthefurniture/latest/download/AllTheFurniture.zip",
+    "DownloadLinkUpdate": "https://github.com/verrilmerteuil/allthefurniture/latest/download/AllTheFurniture.zip",
+    "SupportsProfiles": false,
+    "IconUrl": "https://github.com/verrilmerteuil/cc-chat/blob/88b2531f355affd495d64dbec436df03596cb808/Data/images/logo.png",
+    "ImageUrls": [],
+    "Changelog": "better emoji-picker\nadded BTTV integration",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "AssemblyMatchPattern": "ccchat.dll"
+  }
 ]
 
 
