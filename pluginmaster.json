@@ -77,7 +77,7 @@
     "AssemblyMatchPattern": "AllTheFurniture.dll"
   },
   {
-    "Author": "Verril",
+    "Author": "CCChat Team",
     "Name": "Distro",
     "InternalName": "Distro",
     "Description": "Distributes items between your own characters. One client acts as the distributor while AutoRetainer rotates leechers, which travel via Lifestream and vnavmesh and trade configured items in both directions.",
