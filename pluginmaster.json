@@ -81,8 +81,8 @@
     "Name": "Distro",
     "InternalName": "Distro",
     "Description": "Distributes items between your own characters. One client acts as the distributor while AutoRetainer rotates leechers, which travel via Lifestream and vnavmesh and trade configured items in both directions.",
-    "AssemblyVersion": "0.1.1.0",
-    "TestingAssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.1.6.0",
+    "TestingAssemblyVersion": "0.1.6.0",
     "RepoUrl": "https://git.cecile.synology.me/FFXIV/cc-distro",
     "ApplicableVersion": "any",
     "Tags": [
